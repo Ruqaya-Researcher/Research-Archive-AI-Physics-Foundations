@@ -1,4 +1,4 @@
-# 🚀 Murph's Research & Development Archive
+# 🚀Ruqaya's Research & Development Archive
 
 Welcome to my central repository! This is a documented collection of my journey as a 14yo researcher exploring the boundaries of Science and Technology.
 
